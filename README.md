@@ -1,2 +1,1 @@
-# Task-1
-Supervised Machine Learning(Task 2)
+# Supervised Machine Learning (Task 2)
